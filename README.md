@@ -11,3 +11,8 @@
 	+ Email: tho18.cdsg@saigontech.edu.vn
 	+ Phone: 0396052731
 	+ Facebook URL: https://www.facebook.com/nguyen.tho.94064176/
+	
+# 4. Đặng Linh Tâm:
+	+ Email: tamdl19.cdsg@saigontech.edu.vn
+	+ Phone: 0343332903
+	+ Facebook URL: https://www.facebook.com/linh.tam.9655
